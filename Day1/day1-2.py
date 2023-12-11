@@ -1,4 +1,4 @@
-f = open("day1-2","r")
+f = open("day1-2", "r")
 
 numbers = ["1","2","3","4","5","6","7","8","9","0"]
 wordnumbers = ["one","two","three","four","five","six","seven","eight","nine","zero"]

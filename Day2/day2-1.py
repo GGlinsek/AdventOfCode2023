@@ -1,4 +1,4 @@
-f = open("day2","r")
+f = open("day2", "r")
 
 numbers = ["1","2","3","4","5","6","7","8","9","0"]
 cubedict = {"red": 12,"green": 13,"blue": 14}

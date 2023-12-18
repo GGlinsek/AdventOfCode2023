@@ -4,7 +4,6 @@ def rekurz(linenumber, winninglines):
     sum = 0
     for i in range(0,winninglines):
         sum+=1
-        #print(linenumber+i+1)
         line = lines[linenumber+i].split(":")[1].split("|")
         winning = line[0].strip().split()
         actual = line[1].strip().split()
